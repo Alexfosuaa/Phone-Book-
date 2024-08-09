@@ -1,2 +1,2 @@
 # Phone-Book
-This is a Phone Book created in Python with the tkinter library
+This repository contains the source code for a Phone Book application built with Python's Tkinter library. The application offers functionality to manage a list of contacts, including adding, updating, deleting, and searching for specific entries. The user interface is designed with Tkinter, featuring structured data presentation via ttk.Treeview, and input validation using regular expressions to maintain data accuracy. The project demonstrates key skills in Python-based GUI development, form validation, and modular programming by integrating functions from the views module to handle data operations.
